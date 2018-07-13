@@ -1,4 +1,4 @@
-import tensorflow.tensorflow
+TF TFimport tensorflow.tensorflow
 mnist = tf.keras.datasets.mnist
 
 from tensorflow import keras
